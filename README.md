@@ -71,9 +71,9 @@ Here are the technologies and concepts I've been studying and practicing, catego
 
 ## 📊 GitHub Stats
 
-<p align="left">
-  <img height="180" src="https://github-readme-stats.vercel.app/api?username=leonardobuso&show_icons=true&theme=tokyonight&count_private=true&include_all_commits=true" />
-  <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=leonardobuso&layout=compact&theme=tokyonight&hide=html,css" />
+<!-- Cobrinha dos Commits -->
+<p align="center">
+  <img src="https://raw.githubusercontent.com/leonardobuso/leonardobuso/output/github-contribution-grid-snake.svg" width="100%">
 </p>
 
 ---
